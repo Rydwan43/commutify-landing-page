@@ -8,10 +8,9 @@ Zainstalowanie wymaganych paczek
 
 ### `npm start`
 
-Uruchomienie aplikacji
+Uruchomienie aplikacji w trybie developerskim.\
 
-Aplikacja uruchamia się w trybie developerskim.\
-Domyślny localhost [http://localhost:3000](http://localhost:3000)
+Domyślnie na [http://localhost:3000](http://localhost:3000)
 
 ### `npm test`
 
