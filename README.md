@@ -1,3 +1,5 @@
+![Preview](https://raw.githubusercontent.com/Rydwan43/commutify-landing-page/main/preview.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Kroki do uruchomienia aplikacji
