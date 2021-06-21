@@ -2,21 +2,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Kroki do uruchomienia aplikacji
 
+### `npm install`
+
 Zainstalowanie wymaganych paczek
 
-### `npm install`
+### `npm start`
 
 Uruchomienie aplikacji
 
 Aplikacja uruchamia się w trybie developerskim.\
 Domyślny localhost [http://localhost:3000](http://localhost:3000)
 
-### `npm start`
+### `npm test`
 
 Uruchamianie testów
 
-### `npm test`
+### `npm run build`
 
 Postawienie wersji finalnej. Pliki dostępne są w folderze build. 
-
-### `npm run build`
