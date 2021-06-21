@@ -8,7 +8,7 @@ Zainstalowanie wymaganych paczek
 
 ### `npm start`
 
-Uruchomienie aplikacji w trybie developerskim.\
+Uruchomienie aplikacji w trybie developerskim.
 
 Domyślnie na [http://localhost:3000](http://localhost:3000)
 
